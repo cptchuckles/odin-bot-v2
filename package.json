@@ -9,7 +9,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "axios": "^0.18.0",
+    "axios": "^0.18.1",
     "dotenv": "^5.0.1",
     "giphy-api": "^1.2.7",
     "glob": "^7.1.2",
